@@ -34,7 +34,7 @@ CREATE TABLE fornecedor (
 	telefone_fornecedor VARCHAR NOT NULL,
 	cidade_fornecedor VARCHAR(50) NOT NULL,
 	bairro_fornecedor VARCHAR(50) NOT NULL,
-  rua_fornecedor VARCHAR(50) NOT NULL,
+  	rua_fornecedor VARCHAR(50) NOT NULL,
 	numero_fornecedor INT NOT NULL
 );
 
